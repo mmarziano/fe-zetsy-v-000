@@ -34,7 +34,7 @@ img {
 }
 
 .logos:hover {
-  border-color: rgb();
+  border-color: rgb(113, 127, 122);
   cursor: pointer;
   -webkit-transition: background-color 2s ease-out;
   -moz-transition: background-color 2s ease-out;
