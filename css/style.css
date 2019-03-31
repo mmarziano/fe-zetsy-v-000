@@ -25,6 +25,9 @@ h1 {
   font-size: 3em;
 }
 
+h2 {
+  color: rgb(156, 171, 165);;
+}
 img {
   border: 10px rgb(155,172,166);
 }
