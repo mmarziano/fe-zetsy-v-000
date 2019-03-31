@@ -34,7 +34,7 @@ img {
 }
 
 #logos:hover {
-  background-color: green;
+  background-color: red;
   cursor: pointer;
   -webkit-transition: background-color 2s ease-out;
   -moz-transition: background-color 2s ease-out;
