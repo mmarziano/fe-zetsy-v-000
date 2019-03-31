@@ -34,5 +34,5 @@ img {
 }
 
 img:hover .logos {
-  border: 2px black;
+  border: 2px solid black;
 }
