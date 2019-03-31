@@ -2,9 +2,8 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-  font-family: "Open Sans";
-  src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
-       url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
+  font-family: "Baskerville";
+  src: url("/fonts/Baskerville.ttc") format("truetype");
 }
 
 
