@@ -36,3 +36,9 @@ img {
 img:hover .logos {
   border: 2px solid black;
 }
+
+.copyright {
+  display: block;
+  font-size: .5em;
+  float: right;
+}
