@@ -29,3 +29,7 @@ h1 {
 img {
   border: 10px rgb(155,172,166);
 }
+
+img:hover {
+  border: 2px black;
+}
