@@ -30,7 +30,7 @@ h2 {
 }
 
 img {
-  border: 4px solid rgb(155,172,166);
+  border: 4px solid rgba(155,172,166, 1);
 }
 
 img .logos {
